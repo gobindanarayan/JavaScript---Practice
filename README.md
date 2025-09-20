@@ -1,3 +1,2 @@
 # JavaScript - Practice
-Practice Repo
-.
+Practice Repo.
