@@ -1,3 +1,3 @@
 # JavaScript - Practice
 Practice Repo.
-12
+1
